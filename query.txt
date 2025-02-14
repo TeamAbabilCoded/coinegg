@@ -1,2 +1,2 @@
-user=
-query_id
+user=%7B%22id%22%3A2076705260%2C%22
+query_id=AAHsAch7AAAAAOwByHt8e5wt
